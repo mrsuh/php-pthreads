@@ -1,0 +1,18 @@
+{
+    "name": "mrsuh/php-pthreads",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["thread", "pthread"],
+    "autoload": {
+        "psr-4": {
+            "Mrsuh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sukhachev Anton",
+            "email": "mrsuh6@gmail.com"
+        }
+    ],
+    "require": {}
+}
